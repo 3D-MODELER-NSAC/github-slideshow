@@ -2,4 +2,4 @@
  : "¡ Bienvenido a nuestra segunda diapositiva! "
 ---
 Tu texto ¡ 
-Usa la flecha izquierda para regresar!
+Use the left arrow to come back! 
